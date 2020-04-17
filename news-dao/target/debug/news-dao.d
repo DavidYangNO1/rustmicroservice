@@ -1,0 +1,1 @@
+/Users/imac/Desktop/rust/rustmicroservice/news-dao/target/debug/news-dao: /Users/imac/Desktop/rust/rustmicroservice/news-contract/src/lib.rs /Users/imac/Desktop/rust/rustmicroservice/news-dao/src/main.rs

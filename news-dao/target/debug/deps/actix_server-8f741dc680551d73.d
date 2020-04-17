@@ -1,0 +1,13 @@
+/Users/imac/Desktop/rust/rustmicroservice/news-dao/target/debug/deps/actix_server-8f741dc680551d73.rmeta: /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/lib.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/accept.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/builder.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/config.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/server.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/service.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/signals.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/socket.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/worker.rs
+
+/Users/imac/Desktop/rust/rustmicroservice/news-dao/target/debug/deps/actix_server-8f741dc680551d73.d: /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/lib.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/accept.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/builder.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/config.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/server.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/service.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/signals.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/socket.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/worker.rs
+
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/lib.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/accept.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/builder.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/config.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/server.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/service.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/signals.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/socket.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.2/src/worker.rs:
