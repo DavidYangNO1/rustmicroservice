@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/imac/Desktop/rust/rustmicroservice/news-dao/target/debug/build/typenum-145905464987a67d/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/imac/Desktop/rust/rustmicroservice/news-dao/target/debug/build/typenum-145905464987a67d/out/op.rs
