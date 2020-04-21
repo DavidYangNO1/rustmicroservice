@@ -7,9 +7,8 @@ use tokio_postgres::{NoTls};
 use tokio;
 
 pub async fn connect() -> Option<tokio_postgres::Client> {
-
+    
    let (client,conn) = tokio_postgres::connect("host=172.17.0.2 user=postgres password=postgres dbname=postgres port=5432",NoTls).await.unwrap();
-
    tokio::spawn(async move {
         if let Err(e) = conn.await {
             eprintln!("connection error: {} ",e);
@@ -39,7 +38,7 @@ pub async fn delete_news_by_id(id:&String) -> Option<bool> {
 
 pub async fn insert_news(url:&String,desc:&String) -> Option<News> {
     let client = connect().await.unwrap();
-    let _rows = &client.query("insert into news values(uuid_in(md5(random()::text || clock_timestamp()::text::cstring),$1,$2)",&[&desc,&url]).await.unwrap();
+    let _rows = &client.query("insert into news values(uuid_in(md5(random()::text || clock_timestamp()::text)::cstring),$1,$2)",&[&desc,&url]).await.unwrap();
     let news = News {
         id : String::from("0"),
         desc : String::from(desc),
